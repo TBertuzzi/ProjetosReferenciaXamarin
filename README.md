@@ -4,7 +4,7 @@
 
 Descrição : Projeto de exemplo com implementação de serviço de navegação através de ViewModel seguindo o padrão MVVM
 
-* [Aplicativo com MVVM.Base com CustomNavigation como Base](https://github.com/TBertuzzi/ProjetosReferenciaXamarin/tree/main/ProjetoReferenciaMVVMBase)
+* [Aplicativo com MVVM.Base como Base](https://github.com/TBertuzzi/ProjetosReferenciaXamarin/tree/main/ProjetoReferenciaMVVMBase)
 
 Descrição : Projeto de exemplo com implementação utilizando MVVM.Base seguindo o padrão MVVM
 
