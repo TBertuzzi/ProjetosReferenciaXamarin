@@ -8,6 +8,6 @@ Descrição : Projeto de exemplo com implementação de serviço de navegação 
 
 Descrição : Projeto de exemplo com implementação utilizando MVVM.Base seguindo o padrão MVVM
 
-* [Aplicativo Multi-Tenant e Multi Idioma](https://github.com/TBertuzzi/ProjetosReferenciaXamarin/tree/main/ProjetoReferenciaMultitenantBase)
+* [Aplicativo Multi-Tenant](https://github.com/TBertuzzi/ProjetosReferenciaXamarin/tree/main/ProjetoReferenciaMultitenantBase)
 
 Descrição : Projeto de exemplo com implementação de serviço de navegação através de ViewModel seguindo o padrão MVVM para aplicativos Multitenant
