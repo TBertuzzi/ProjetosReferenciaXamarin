@@ -1,6 +1,4 @@
-# Projetos de Referencia Xamarin
-
-Projetos com Arquitetura de Referencia para ser utilizado em projetos Xamarin :
+# Projetos com Arquitetura de Referencia para ser utilizado em projetos Xamarin :
 
 * [Aplicativo com Navegação com CustomNavigation como Base](https://github.com/TBertuzzi/ProjetosReferenciaXamarin/tree/main/ProjetoReferenciaBase)
 
